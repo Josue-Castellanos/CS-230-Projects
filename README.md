@@ -1,1 +1,1 @@
-# CS230
+# CS-230 Projects
